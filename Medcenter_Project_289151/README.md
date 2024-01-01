@@ -65,11 +65,11 @@ Analysis and Interpretation
 
 In-depth scrutiny of model performances showcased the Stacking Regressor as the most effective among the evaluated models, emphasizing the advantages derived from amalgamating divers showed superior performance compared to other models. Figure 1 further illustrates a slightly more favorable outcome for the Stacking Regressor, with respect to R² scores, while Figure 2 shows the Stacking Regressor to have the lowest MSE of the models.
 
-![See Figure 1 in 'Images' folder]
+![See 'Figure_1' in 'Images' folder]
 
 Fig.1
 
-![See Figure 2 in 'Images' folder]
+![See 'Figure_2' in 'Images' folder]
 
 Fig.2
 
